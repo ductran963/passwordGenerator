@@ -17,7 +17,8 @@ Character types includes:
 Link to github page: https://github.com/ductran963/passwordGenerator
 
 Password Generator image:
-(./assets/images/pass.png)
+
+![image info](./assets/images/pass.png)
 
 
 
