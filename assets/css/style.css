@@ -1,0 +1,70 @@
+.container {
+    background-color:  rgb(230, 230, 233);
+}
+
+.header h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.stuff{
+    margin-left: 10px;
+}
+
+.content{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    width: 100%;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.content h2{
+    margin-top: 20px;
+    border-bottom: #CCCCD0 2px solid;
+    padding-bottom: 24px;
+}
+.content h3{
+    border-top: #CCCCD0 2px solid;
+}
+
+#display{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 2px;
+    border-style: dashed;
+    border-radius: 10px;
+    padding-top: 12px;
+}
+
+.generateButton {
+    background-color: rgb(180, 36, 36);
+    color: white;
+    text-align: center;
+    border: none;
+    font-size: 16px;
+    margin: 4px 2px 18px 20px;
+    cursor: pointer;
+    border-radius: 30px;
+    padding-left: 34px;
+    padding-right: 34px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.copyButton {
+    background-color: #79717179;
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 5px 18px 243px;
+    cursor: pointer;
+    border-radius: 30px;
+    padding-left: 34px;
+    padding-right: 34px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
