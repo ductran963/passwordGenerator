@@ -21,4 +21,9 @@ Password Generator image:
 ![image info](./assets/images/pass.png)
 
 
-- ![#blue](https://placehold.it/15/blue/000000?text=+) `#Blue`
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
