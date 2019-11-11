@@ -14,7 +14,7 @@ Character types includes:
 *Lowercase characters
 *Uppercase characters
 
-Link to github page: https://github.com/ductran963/passwordGenerator
+Link to github page: https://ductran963.github.io/passwordGenerator/
 
 Password Generator image:
 
